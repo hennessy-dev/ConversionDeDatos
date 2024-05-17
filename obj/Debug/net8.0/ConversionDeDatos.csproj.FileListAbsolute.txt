@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\ConversionDeDatos\obj\Debug\net8.0\ConversionDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\ConversionDeDatos\obj\Debug\net8.0\ConversionDeDatos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\ConversionDeDatos\obj\Debug\net8.0\ConversionDeDatos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\ConversionDeDatos\obj\Debug\net8.0\ConversionDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\ConversionDeDatos\bin\Debug\net8.0\ConversionDeDatos.exe
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\ConversionDeDatos\bin\Debug\net8.0\ConversionDeDatos.deps.json
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\ConversionDeDatos\bin\Debug\net8.0\ConversionDeDatos.runtimeconfig.json
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\ConversionDeDatos\bin\Debug\net8.0\ConversionDeDatos.dll
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\ConversionDeDatos\bin\Debug\net8.0\ConversionDeDatos.pdb
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\ConversionDeDatos\obj\Debug\net8.0\ConversionDeDatos.dll
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\ConversionDeDatos\obj\Debug\net8.0\refint\ConversionDeDatos.dll
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\ConversionDeDatos\obj\Debug\net8.0\ConversionDeDatos.pdb
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\ConversionDeDatos\obj\Debug\net8.0\ConversionDeDatos.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\juan-david\programacion\lenguajes\C#\ejercicios\ConversionDeDatos\obj\Debug\net8.0\ref\ConversionDeDatos.dll
